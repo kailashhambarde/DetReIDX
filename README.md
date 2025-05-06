@@ -50,7 +50,7 @@ If you use DetReIDX in your research, please cite:
 ```bibtex
 @article{detreidx2025,
   title={DetReIDX: A Stress-Test Dataset for Real-World UAV-Based Person Recognition},
-  author={Author Name et al.},
+  author={Kailash et al.},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
   year={2025},
   note={Dataset available at \url{https://www.it.ubi.pt/DetReIDX}}
