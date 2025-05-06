@@ -20,3 +20,28 @@
 
 ## 📂 Folder Structure
 
+
+
+
+## 📥 Download
+
+Dataset access and download links are available at the official project website:  
+https://www.it.ubi.pt/DetReIDX](https://www.it.ubi.pt/DetReIDX)
+
+## 📊 Evaluation Protocols
+
+- **Detection**: Evaluate pedestrian bounding boxes under different aerial configurations.
+- **ReID**: Match identities across different domains and sessions using mAP and CMC metrics.
+
+## 📄 Citation
+
+If you use DetReIDX in your research, please cite:
+
+```bibtex
+@article{detreidx2025,
+  title={DetReIDX: A Stress-Test Dataset for Real-World UAV-Based Person Recognition},
+  author={YourName et al.},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year2025},
+  note={Dataset available at \url{https://www.it.ubi.pt/DetReIDX}}
+}
